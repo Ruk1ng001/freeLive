@@ -1,8 +1,11 @@
-# live
-M3u Live share. Douyu、bilibili、huya、youtube
+# freeLive
+[![Stars](https://img.shields.io/github/stars/Ruk1ng001/freeLive)](https://github.com/Ruk1ng001/freeLive/stargazers)
+[![TG](https://img.shields.io/badge/Telegram-gray?logo=Telegram)](https://t.me/Ruk1ng001)
+### Lives share. Douyu、bilibili、huya、youtube
 
-## 欢迎加入[tg交流群](https://t.me/+-e-b04EE5Cw2NmU1)
-## 欢迎加入[tg频道](https://t.me/Ruk1ng001)
+---
+
+## 欢迎加入[tg频道](https://t.me/Ruk1ng001)、[tg交流群](https://t.me/+-e-b04EE5Cw2NmU1)
 
 # 使用说明
 直播源地址：[http://ruk1ng.kmdns.net:19527](http://ruk1ng.kmdns.net:19527)
@@ -38,3 +41,8 @@ http://ruk1ng.kmdns.net:19527/lives/huya_douyu.m3u
 # 计划更新
 
 ### 单直播平台根据直播类型进行自定义直播源
+
+## 统计
+
+[![Stargazers over time](https://starchart.cc/Ruk1ng001/freeLive.svg)](https://starchart.cc/Ruk1ng001/freeLive)
+
