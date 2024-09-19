@@ -1,0 +1,27 @@
+name: Execute Command on Remote Server
+
+# 定时任务触发，使用 schedule 事件
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 每天凌晨1点触发 (UTC时间)
+
+jobs:
+  remote-command:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 使用 SSH 执行远程命令
+      - name: Execute command on remote server
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT }}
+          script: |
+            echo "Running command on remote server..."
+            bash ~/live/stop.sh && bash ~/live/start.sh
