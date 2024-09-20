@@ -21,6 +21,5 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: |
-            echo "Running command on remote server..."
+          script: 
             bash ~/live/stop.sh && bash ~/live/start.sh
