@@ -3,8 +3,7 @@ name: Execute Command on Remote Server
 # 定时任务触发，使用 schedule 事件
 on:
   schedule:
-    - cron: '0 1 * * *'   # 每天凌晨1点触发 (UTC时间)
-
+    - cron: '0 17 * * *'
 jobs:
   remote-command:
     runs-on: ubuntu-latest
