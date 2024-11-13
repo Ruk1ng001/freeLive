@@ -15,7 +15,7 @@ jobs:
 
       # 使用 SSH 执行远程命令
       - name: Execute command on remote server
-        uses: appleboy/ssh-action@v1.0.3
+        uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
