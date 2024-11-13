@@ -19,7 +19,8 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
+          key:  ${{ secrets.KEY }}
+#          password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: 
             bash ~/live/stop.sh && bash ~/live/start.sh
