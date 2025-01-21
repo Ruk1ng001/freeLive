@@ -5,6 +5,8 @@
 
 **直播源地址每半个小时更新一次**
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=779725311" height="90">](https://api.gitsponsors.com/api/badge/link?p=UzxWE0/Sr257rDsDOuSqJybSqPcdqpjHYJR0q6o44Hd1s2+cDhmwJ1g71rFRC1LH52MmKxi6BK9cFmnqazFVAuG4tVdTOfyJv9R4qlN+XVOnQGwG7eU1aDgQHALuEmhnodpPykVztqQr9YVEgkauCg==)
+
 ## 打赏
 
 |支付宝|微信|
