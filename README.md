@@ -9,8 +9,6 @@
 
 > 直播源地址每 30 分钟自动更新，支持 FLV / HLS 双模式
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=779725311" height="90">](https://api.gitsponsors.com/api/badge/link?p=UzxWE0/Sr257rDsDOuSqJybSqPcdqpjHYJR0q6o44Hd1s2+cDhmwJ1g71rFRC1LH52MmKxi6BK9cFmnqazFVAuG4tVdTOfyJv9R4qlN+XVOnQGwG7eU1aDgQHALuEmhnodpPykVztqQr9YVEgkauCg==)
-
 ---
 
 ## ❗❗❗服务已全面更新，更多教程请直接访问地址进行私有化定制 [**https://live.997269.xyz**](https://live.997269.xyz)
